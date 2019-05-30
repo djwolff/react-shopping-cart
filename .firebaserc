@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "react-shopping-cart-67954"
+    "default": "react-shopping-cart-67954",
+    "testing": "react-shopping-cart-f4b6c"
   }
 }
